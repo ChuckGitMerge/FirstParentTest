@@ -6,4 +6,4 @@
 3.1 git switch jun  
 3.2 git log --first-parent  
 
-Walk Behaviour → (First Parent)[https://tortoisegit.org/docs/tortoisegit/tgit-dug-showlog.html  ] just follow up first parent commit. This will help understand the overall history.
+Walk Behaviour → [First Parent](https://tortoisegit.org/docs/tortoisegit/tgit-dug-showlog.html) just follow up first parent commit. This will help understand the overall history.
